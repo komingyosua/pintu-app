@@ -12,6 +12,7 @@
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc"
   },
   "dependencies": {
+    "@babel/runtime": "^7.20.1",
     "@react-navigation/bottom-tabs": "^6.4.0",
     "@react-navigation/material-bottom-tabs": "^6.2.4",
     "@react-navigation/native": "^6.0.13",
